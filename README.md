@@ -51,6 +51,7 @@ I’m passionate about coding, building projects, and solving problems through t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
+---
 
 **Other Interests**  
 - Mobile App development | Problem-solving |   Open Source Contribution 
