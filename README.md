@@ -7,6 +7,7 @@ I’m passionate about coding, building projects, and solving problems through t
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hclperera&"  />
 </div>
+
 ---
 
 ## 🚀 About Me  
