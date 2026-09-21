@@ -1,75 +1,103 @@
-# Hi there, I'm Chanduka Lakshan 👋  
+<!-- Header banner -->
+<div align="center">
 
-💻 **Information Technology Undergraduate | Developer | Tech Enthusiast**  
+<img src="./assets/banner.svg" alt="Chanduka Lakshan banner" width="100%"/>
 
-I’m passionate about coding, building projects, and solving problems through technology. Currently pursuing my degree in Information Technology at RUSL , I enjoy learning about Linux Systems & DevOps, and exploring new tools and frameworks.  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chanduka--lakshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanduka-lakshan/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukalakshanbttdm@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/hclperera?style=for-the-badge&logo=github&label=Followers&color=24292e)](https://github.com/hclperera?tab=followers)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hclperera&)
+
+</div>
+
+---
+
+## 👋 About Me
+
+I'm an **Information Technology undergraduate at RUSL** who enjoys turning ideas into working software. I like solving problems with code, digging into how systems work under the hood, and picking up new tools along the way.
+
+```yaml
+name: Chanduka Lakshan
+role: IT Undergraduate | Developer
+studying: Information Technology @ RUSL
+currently_learning: [Linux Fundamentals, DevOps]
+interests: [Linux Systems, DevOps, Mobile Apps, Open Source, Problem Solving]
+open_to: Collaboration on interesting projects
+philosophy: teamwork + communication = success 🚀
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,php&theme=dark" alt="Languages" />
+</p>
+
+**Web & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,mysql&theme=dark" alt="Web and data" />
+</p>
+
+**Tools, Libraries & DevOps**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,kubernetes,opencv,qt&theme=dark" alt="Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [**Infox_Backend**](https://github.com/hclperera/Infox_Backend) | Backend for Project InfoX | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**Infox_Admin**](https://github.com/hclperera/Infox_Admin) | Admin panel for Project InfoX | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**Cat-Breed-Identification**](https://github.com/hclperera/Cat-Breed-Identification) | AI image classifier that tells apart four cat breeds: Calico, Persian, Bombay and Siamese | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [**Personal_Organizer**](https://github.com/hclperera/Personal_Organizer) | A personal organizer application | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+
+<sub>More on my [repositories page](https://github.com/hclperera?tab=repositories).</sub>
+
+---
+
+## 🎯 Currently
+
+- 🌱 Learning **Linux fundamentals**
+- 🐳 Exploring **DevOps** tooling (Docker, Kubernetes)
+- 🤝 Looking for **collaborations** and open-source projects to contribute to
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hclperera&"  />
+
+<img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commits" />
+<img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time of day" />
+
 </div>
 
 ---
 
-## 🚀 About Me  
-- 🎓 Undergraduate in **Information Technology**  
-- 📱 Interested in **Linux Systems & DevOps**  
-- 🤝 Open to **collaborations** on exciting projects  
-- 🌱 Currently learning **Linux Fundamentals**  
-- ⚡ Fun fact: I believe teamwork + communication = success 🚀  
+## 📫 Let's Connect
 
----
+I'm always happy to chat about projects, Linux, DevOps or anything tech. Reach out on [LinkedIn](https://www.linkedin.com/in/chanduka-lakshan/) or drop me an [email](mailto:chandukalakshanbttdm@gmail.com).
 
-## 🛠️ Tech Stack  
+<div align="center">
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+<sub>⭐ If you like something you see here, a star on a repo goes a long way.</sub>
+
+<img src="./assets/footer.svg" alt="footer" width="100%"/>
+
 </div>
-
----
-
-**Other Interests**  
-- Mobile App development | Problem-solving |   Open Source Contribution 
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hclperera&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hclperera&layout=compact&theme=radical)  
-
----
-
-## 📫 Connect With Me  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/chanduka-lakshan/)  
-- 📧 Email: chandukalakshanbttdm@gmail.com   
-
----
-
-⭐️ From [HCL Perera](https://github.com/hclperera)  
