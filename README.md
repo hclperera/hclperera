@@ -17,7 +17,6 @@
 </div>
 
 ---
-
 ## 👋 About Me
 
 <img src="./assets/about-terminal-v2.svg" alt="About me terminal" width="100%"/>
