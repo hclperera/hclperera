@@ -4,7 +4,7 @@
 <img src="./assets/banner-terminal-v2.svg" alt="Chanduka Lakshan banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG"
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
