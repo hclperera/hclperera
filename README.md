@@ -19,7 +19,7 @@
 ---
 ## 👋 About Me
 
-<img src="./assets/about-terminal-v2.svg" alt="About me terminal" width="100%"/>
+<img src="./assets/about-terminal-v2.svg" alt="About Chanduka Lakshan: IT undergraduate at RUSL interested in Linux systems and DevOps, mobile app development, problem solving, and open source contribution; learning Linux fundamentals, open to collaboration, and values teamwork and communication." width="100%"/>
 
 ---
 
