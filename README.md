@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Chanduka Lakshan banner" width="100%"/>
+<img src="./assests/banner.svg" alt="Chanduka Lakshan banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -54,18 +54,6 @@ philosophy: teamwork + communication = success 🚀
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,kubernetes,opencv,qt&theme=dark" alt="Tools" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Infox_Backend**](https://github.com/hclperera/Infox_Backend) | Backend for Project InfoX | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [**Infox_Admin**](https://github.com/hclperera/Infox_Admin) | Admin panel for Project InfoX | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**Cat-Breed-Identification**](https://github.com/hclperera/Cat-Breed-Identification) | AI image classifier that tells apart four cat breeds: Calico, Persian, Bombay and Siamese | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [**Personal_Organizer**](https://github.com/hclperera/Personal_Organizer) | A personal organizer application | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-
-<sub>More on my [repositories page](https://github.com/hclperera?tab=repositories).</sub>
 
 ---
 
@@ -98,6 +86,6 @@ I'm always happy to chat about projects, Linux, DevOps or anything tech. Reach o
 
 <sub>⭐ If you like something you see here, a star on a repo goes a long way.</sub>
 
-<img src="./assets/footer.svg" alt="footer" width="100%"/>
+<img src="./assests/footer.svg" alt="footer" width="100%"/>
 
 </div>
