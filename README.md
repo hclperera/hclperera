@@ -1,7 +1,7 @@
 <!-- Header banner -->
 <div align="center">
 
-<img src="./assests/banner.svg" alt="Chanduka Lakshan banner" width="100%"/>
+<img src="./assets/banner-terminal-v2.svg" alt="Chanduka Lakshan banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
@@ -17,20 +17,9 @@
 </div>
 
 ---
-
 ## 👋 About Me
 
-I'm an **Information Technology undergraduate at RUSL** who enjoys turning ideas into working software. I like solving problems with code, digging into how systems work under the hood, and picking up new tools along the way.
-
-```yaml
-name: Chanduka Lakshan
-role: IT Undergraduate | Developer
-studying: Information Technology @ RUSL
-currently_learning: [Linux Fundamentals, DevOps]
-interests: [Linux Systems, DevOps, Mobile Apps, Open Source, Problem Solving]
-open_to: Collaboration on interesting projects
-philosophy: teamwork + communication = success 🚀
-```
+<img src="./assets/about-terminal-v2.svg" alt="About Chanduka Lakshan: IT undergraduate at RUSL interested in Linux systems and DevOps, mobile app development, problem solving, and open source contribution; learning Linux fundamentals, open to collaboration, and values teamwork and communication." width="100%"/>
 
 ---
 
@@ -53,7 +42,6 @@ philosophy: teamwork + communication = success 🚀
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,kubernetes,opencv,qt&theme=dark" alt="Tools" />
 </p>
-
 
 ---
 
@@ -86,6 +74,6 @@ I'm always happy to chat about projects, Linux, DevOps or anything tech. Reach o
 
 <sub>⭐ If you like something you see here, a star on a repo goes a long way.</sub>
 
-<img src="./assests/footer.svg" alt="footer" width="100%"/>
+<img src="./assets/footer-terminal.svg" alt="footer" width="100%"/>
 
 </div>
