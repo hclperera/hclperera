@@ -3,17 +3,18 @@
 
 <img src="./assets/banner-terminal-v2.svg" alt="Chanduka Lakshan banner" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chanduka--lakshan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanduka-lakshan/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandukalakshanbttdm@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/hclperera?style=for-the-badge&logo=github&label=Followers&color=24292e)](https://github.com/hclperera?tab=followers)
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=hclperera&)
+![Profile views](https://komarev.com/ghpvc/?username=hclperera&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS&base=187)
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+projects%2C+one+commit+at+a+time;Learning+Linux+%26+DevOps;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 </div>
 
 ---
